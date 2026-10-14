@@ -1,40 +1,38 @@
-# Hi there! I'm Razan 👋
-### 🚀 Software Engineering Student & Frontend Developer
+# Hey, I'm Razan 👋
 
-I’m a passionate **Software Engineering** student with a focus on building scalable and performant web applications. I love turning complex problems into elegant, user-friendly designs using modern frontend technologies.
+### Software Engineering Student | Frontend Developer
 
----
+I'm a Software Engineering student who enjoys building web applications and figuring out how things work behind the scenes.
 
-### 🧠 Expertise & Goals
-- 🛠️ Deep diving into **React & Next.js** to build full-stack experiences.
-- 🎨 Focused on **Responsive Design** and clean UI using **Tailwind CSS**.
-- ⚙️ Interested in **Software Architecture** and writing clean, maintainable code.
----
+I mainly work with React and Next.js, and lately I've been spending more time with Laravel and PHP to get better at backend development too. I'm also exploring AI integration and automation, and trying to apply what I learn in real projects instead of just tutorials.
 
-### 🚀 Tech Stack & Skills
+### 🛠️ Technologies I Work With
 
-#### **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Frontend**
+- React, Next.js, JavaScript, TypeScript
+- HTML, CSS, Tailwind CSS
+- shadcn/ui
 
-#### **Frameworks & Libraries**
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.dot.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+**Backend**
+- PHP, Laravel
+- MySQL, REST APIs
 
-#### **Tools & Version Control**
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
----
+**Tools**
+- Git & GitHub
+- Figma, VS Code
 
+### 🚀 What I'm Working On
+- Building and improving my Laravel projects.
+- Getting more comfortable with backend development and software architecture.
+- Exploring AI integration and workflow automation with n8n.
 
+### 📌 A Few Things About Me
+- I like learning by building things.
+- I care about writing code that's easy to understand and maintain.
+- I'm always looking for something new to experiment with.
 
+### 📫 Find Me Here
 
-### 📬 Let's Connect
-- 📧 Email: **razanbalata@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/razan-balata-18a134391
-- 📝 Portfolio: https://portfolio-delta-topaz-86.vercel.app/
+- Email: [razanbalata@gmail.com](mailto:razanbalata@gmail.com)
+- LinkedIn: [linkedin.com/in/razan-balata-18a134391](https://www.linkedin.com/in/razan-balata-18a134391)
+- Portfolio: [Check out my work](https://portfolio-delta-topaz-86.vercel.app/)
